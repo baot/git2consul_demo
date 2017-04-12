@@ -1,0 +1,12 @@
+{
+  "first_root": {
+    "first_child": {
+      "first_child_first_value": "first_child",
+      "first_child_second_value": "second_child"
+    },
+    "second_child": {
+      "second_child_first_value": "first_child",
+      "second_child_second_value": "second_child"
+    }
+  }
+}
